@@ -1,6 +1,6 @@
 {
   "version": "1.1.54",
   "build": 66,
-  "url": "https://hujanalert-privacy-837.netlify.app/HujanAlert-v1.1.54.apk",
-  "notes": "Deteksi lokasi dipercepat: posisi GPS langsung diambil saat app dibuka, lokasi otomatis ter-update saat berpindah, akurasi GPS ditingkatkan. Perbaikan: cek pembaruan kini menunjuk ke HujanAlert (bukan app lain)."
+  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.54.apk",
+  "notes": "Deteksi lokasi dipercepat: posisi GPS langsung saat app dibuka, lokasi auto-update saat berpindah, akurasi GPS ditingkatkan. Perbaikan: cek pembaruan kini menunjuk ke HujanAlert (bukan app lain)."
 }
