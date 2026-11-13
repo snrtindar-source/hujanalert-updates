@@ -1,6 +1,6 @@
 {
-  "version": "1.1.56",
-  "build": 68,
-  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.56.apk",
-  "notes": "Deteksi lokasi dipercepat dan diperbaiki: posisi GPS langsung saat app dibuka, lokasi auto-update saat berpindah, akurasi GPS ditingkatkan. Layar pilih lokasi kini auto-detect lebih cepat (jalur GPS + IP paralel)."
+  "version": "1.1.57",
+  "build": 69,
+  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.57.apk",
+  "notes": "Deteksi lokasi kini memakai geocoder on-device Google (pola Islamic Digital Center) — nama kecamatan & desa ter-resolve jauh lebih akurat. Terima kasih!"
 }
