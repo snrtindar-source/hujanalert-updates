@@ -1,6 +1,8 @@
 {
-  "version": "1.1.60",
-  "build": 72,
-  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.60.apk",
-  "notes": "Peta Kualitas Udara gaya aqicn.org: basemap terang, marker badge+pin, kontrol zoom lengkap (persentase, fit all, reset), panah navigasi 4 arah, minimap interaktif, legenda 6 kategori."
+  "version": "1.1.61",
+  "build": 73,
+  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.61.apk",
+  "sha256": "12a6c410dfc2856773ed3412bfa4ea4b48a660edb6763165bf6d49a6b3bc3595",
+  "notes": "Peta Kualitas Udara gaya Windy: basemap terang + medan warna AQI gradasi halus + marker kota + kontrol zoom lengkap.",
+  "date": "2026-11-16"
 }
