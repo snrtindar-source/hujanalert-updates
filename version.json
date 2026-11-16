@@ -1,8 +1,8 @@
 {
-  "version": "1.1.61",
-  "build": 73,
-  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.61.apk",
-  "sha256": "12a6c410dfc2856773ed3412bfa4ea4b48a660edb6763165bf6d49a6b3bc3595",
-  "notes": "Peta Kualitas Udara gaya Windy: basemap terang + medan warna AQI gradasi halus + marker kota + kontrol zoom lengkap.",
-  "date": "2026-11-16"
+  "version": "1.1.62",
+  "build": 74,
+  "apk_url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.62.apk",
+  "min_build": 1,
+  "release_notes": "Peta AQI: outline pulau + nama kota selalu terlihat; legenda naik di atas bilah navigasi.",
+  "mandatory": false
 }
