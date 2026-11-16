@@ -1,6 +1,6 @@
 {
-  "version": "1.1.59",
-  "build": 71,
-  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.59.apk",
-  "notes": "Peta Kualitas Udara diperbaiki: marker kecil (tidak menutupi peta), fokus Indonesia, kontrol zoom +/− & pinch mudah."
+  "version": "1.1.60",
+  "build": 72,
+  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.60.apk",
+  "notes": "Peta Kualitas Udara gaya aqicn.org: basemap terang, marker badge+pin, kontrol zoom lengkap (persentase, fit all, reset), panah navigasi 4 arah, minimap interaktif, legenda 6 kategori."
 }
