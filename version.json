@@ -1,6 +1,6 @@
 {
-  "version": "1.1.57",
-  "build": 69,
-  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.57.apk",
-  "notes": "Deteksi lokasi kini memakai geocoder on-device Google (pola Islamic Digital Center) — nama kecamatan & desa ter-resolve jauh lebih akurat. Terima kasih!"
+  "version": "1.1.58",
+  "build": 70,
+  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.58.apk",
+  "notes": "Fitur baru: Peta Kualitas Udara! Buka menu Indeks Kualitas Udara lalu ketuk ikon peta di kanan atas — lihat AQI semua kota Indonesia di peta satelit, ketuk marker untuk detail polutan."
 }
