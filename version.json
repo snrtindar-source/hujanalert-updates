@@ -1,6 +1,6 @@
 {
-  "version": "1.1.58",
-  "build": 70,
-  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.58.apk",
-  "notes": "Fitur baru: Peta Kualitas Udara! Buka menu Indeks Kualitas Udara lalu ketuk ikon peta di kanan atas — lihat AQI semua kota Indonesia di peta satelit, ketuk marker untuk detail polutan."
+  "version": "1.1.59",
+  "build": 71,
+  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.59.apk",
+  "notes": "Peta Kualitas Udara diperbaiki: marker kecil (tidak menutupi peta), fokus Indonesia, kontrol zoom +/− & pinch mudah."
 }
