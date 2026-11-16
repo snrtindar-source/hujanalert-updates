@@ -1,8 +1,6 @@
 {
-  "version": "1.1.63",
-  "build": 75,
-  "apk_url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.63.apk",
-  "min_build": 1,
-  "release_notes": "GPS: tiru logika Islamic Digital Center \u2014 one-shot 30 detik + fallback cache, lokasi tidak lagi gagal total.",
-  "mandatory": false
+  "version": "1.1.64",
+  "build": 76,
+  "apk_url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.64.apk",
+  "notes": "Legenda peta AQI: teks kategori lebih jelas (hitam gelap tebal)."
 }
