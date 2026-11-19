@@ -1,6 +1,7 @@
 {
-  "version": "1.1.64",
-  "build": 76,
-  "apk_url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.64.apk",
-  "notes": "Legenda peta AQI: teks kategori lebih jelas (hitam gelap tebal)."
+  "version": "1.1.65",
+  "build": 77,
+  "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.65.apk",
+  "sha256": "89fee8c84d07531e097db7ff95f0061752c9b66d843450750d009028ce787349",
+  "notes": "Deteksi lokasi disamakan persis dengan Islamic Digital Center: one-shot GPS tanpa timeout (tunggu sampai lock), cache last-known selalu diterima, fallback cache basi. Lokasi tidak lagi 'terkunci' saat GPS lock lambat."
 }
