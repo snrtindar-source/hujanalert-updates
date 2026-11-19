@@ -1,1 +1,1 @@
-{"version": "1.1.66", "build": 78, "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.66.apk", "notes": "Perbaikan modul Fire Alert: koneksi NASA FIRMS (API baru), data hotspot kembali muncul."}
+{"version": "1.1.67", "build": 79, "url": "https://snrtindar-source.github.io/hujanalert-updates/HujanAlert-v1.1.67.apk", "notes": "Fire Alert kini aktif otomatis dengan kunci bawaan \u2014 tidak perlu input MAP_KEY lagi."}
